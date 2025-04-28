@@ -1,0 +1,7 @@
+---
+title: "Abstract"
+format: html
+editor: visual
+---
+
+Tobacco use can lead to the development of cancer and cause premature cancer deaths. This project studies tobacco-associated cancer deaths to find which demographics are most at risk in Multnomah County. We used data on county deaths from 2014-2023 to develop death rates per 100,000 for various demographics. We then created visuals for our data over time to demonstrate trends. We found that lung cancer is by far the most common tobacco-related cancer death for this dataset. We also found that veterans are at a higher risk than non-veterans, and men are at a higher risk than women. We also found that Black and white populations have the highest rates of tobacco associated deaths in Multnomah county, and raise potential concerns for upward trends in Pacific Islander populations’ death rates.

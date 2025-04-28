@@ -1,0 +1,27 @@
+---
+title: "Sources"
+format: html
+editor: visual
+---
+
+Works Cited
+
+“1 of Every 4 Global Cancer Deaths Are Caused by Tobacco Use.” American Cancer Society, 29 July 2024, www.cancer.org/research/acs-research-news/one-of-every-four-global-cancer-deaths-are-caused-by-tobacco-use.html.
+
+Anand, Preetha, et al. “Cancer Is a Preventable Disease That Requires Major Lifestyle Changes.” Pharmaceutical Research, U.S. National Library of Medicine, Sept. 2008, pmc.ncbi.nlm.nih.gov/articles/PMC2515569/.
+
+Brown, David W. “Smoking Prevalence among US Veterans.” Journal of General Internal Medicine, U.S. National Library of Medicine, Feb. 2010, pmc.ncbi.nlm.nih.gov/articles/PMC2837499/#Sec3.
+
+“Burden of Cigarette Use in the U.S.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 8 Oct. 2024, www.cdc.gov/tobacco/campaign/tips/resources/data/cigarette-smoking-in-united-states.html.
+
+Choquet, Hélène, et al. “Cigarette Smoking Behaviors and the Importance of Ethnicity and Genetic Ancestry.” Translational Psychiatry, U.S. National Library of Medicine, 11 Feb. 2021, pmc.ncbi.nlm.nih.gov/articles/PMC7907280/.
+
+“Department of Defense Releases Annual Demographics Report - Upward Trend in Number of Wome.” U.S. Department of Defense, www.defense.gov/News/Releases/Release/Article/3246268/department-of-defense-releases-annual-demographics-report-upward-trend-in-numbe/. Accessed 27 Apr. 2025.
+
+“Health Effects of Cigarettes: Cancer.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, www.cdc.gov/tobacco/about/cigarettes-and-cancer.html. Accessed 27 Apr. 2025.
+
+Institute of Medicine (US) and National Research Council (US) National Cancer Policy Board. “Lifestyle Behaviors Contributing to the Burden of Cancer.” Fulfilling the Potential of Cancer Prevention and Early Detection., U.S. National Library of Medicine, 1 Jan. 1970, www.ncbi.nlm.nih.gov/books/NBK223925/.
+
+Nguyen-Grozavu, France T, et al. “Widening Disparities in Cigarette Smoking by Race/Ethnicity across Education Level in the United States.” Preventive Medicine, U.S. National Library of Medicine, Oct. 2020, pmc.ncbi.nlm.nih.gov/articles/PMC7494609/.
+
+“Tobacco Product Use among Military Veterans - United States, 2010–2015.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 11 Jan. 2018, www.cdc.gov/mmwr/volumes/67/wr/mm6701a2.htm.

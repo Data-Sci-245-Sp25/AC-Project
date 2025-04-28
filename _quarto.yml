@@ -23,6 +23,8 @@ website:
         text: Results
       - href: conclusion.qmd
         text: Conclusion & Recommendations
+      - href: sources.qmd
+        text: Sources
  
 format:
   html:
