@@ -1,7 +1,0 @@
----
-title: "Background"
-format: html
-editor: visual
----
-
-About 1 in 4 cancer deaths worldwide and 1 in 3 cancer deaths in America can be associated with tobacco use and tobacco is the largest portion of all lifestyle attributed cancers (<https://www.cancer.org/research/acs-research-news/one-of-every-four-global-cancer-deaths-are-caused-by-tobacco-use.html>) (<https://www.cdc.gov/tobacco/about/cigarettes-and-cancer.html>).  With cancer being the leading cause of death in the US, any efforts to prevent lifestyle related cancer diagnoses is imperative for improving public health. This means that anti-smoking campaigns have the most potential for preventing cancer deaths as tobacco use is the highest proportion of lifestyle related cancer diagnoses (<https://www.cancer.org/research/acs-research-news/one-of-every-four-global-cancer-deaths-are-caused-by-tobacco-use.html>). Tobacco use causes about 440,000 premature cancer deaths in the US alone (<https://www.ncbi.nlm.nih.gov/books/NBK223925/>). It is also a leading cause of all environmental caused cancer in America (<https://pmc.ncbi.nlm.nih.gov/articles/PMC2515569/>).

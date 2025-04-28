@@ -8,19 +8,19 @@ website:
   sidebar:
     style: "docked"
     contents:
-      - href: index.html
+      - href: index.qmd
         text: Home
-      - href: abstract.html
+      - href: abstract.qmd
         text: Abstract
-      - href: background.html
+      - href: background.qmd
         text: Background
-      - href: goals.html
+      - href: goals.qmd
         text: Project Goals
-      - href: methods.html
+      - href: methods.qmd
         text: Methods
-      - href: results.html
+      - href: results.qmd
         text: Results
-      - href: conclusion.html
+      - href: conclusion.qmd
         text: Conclusion & Recommendations
 
 format:
