@@ -1,5 +1,15 @@
 [
   {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "Methods",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tobacco-Related Cancer Deaths in Multmomah County",
@@ -7,6 +17,46 @@
     "text": "Claire Baco & Anneliese Haberkamp\nApril 2025\nThis project is completed as a part of Lewis & Clark College’s Data Science 245: Data Science Practicum class, in collaboration with the Multnomah County public health department.\nSpecial thanks to: the Multnomah County public health department representatives, Jeremy McWilliams, Professor Greta Binford, the Data Science department, and our classmates in DCSI 245.",
     "crumbs": [
       "Home"
+    ]
+  },
+  {
+    "objectID": "results.html",
+    "href": "results.html",
+    "title": "Results",
+    "section": "",
+    "text": "Results",
+    "crumbs": [
+      "Results"
+    ]
+  },
+  {
+    "objectID": "conclusion.html",
+    "href": "conclusion.html",
+    "title": "Conclusion",
+    "section": "",
+    "text": "conclusion",
+    "crumbs": [
+      "Conclusion & Recommendations"
+    ]
+  },
+  {
+    "objectID": "background.html",
+    "href": "background.html",
+    "title": "Background",
+    "section": "",
+    "text": "background",
+    "crumbs": [
+      "Background"
+    ]
+  },
+  {
+    "objectID": "goals.html",
+    "href": "goals.html",
+    "title": "Project Goals",
+    "section": "",
+    "text": "Project goals",
+    "crumbs": [
+      "Project Goals"
     ]
   }
 ]
