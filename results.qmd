@@ -6,7 +6,7 @@ editor: visual
 
 In studying numbers of tobacco-related cancer deaths, far and away the largest number are lung cancer deaths related to smoking. These are followed by lymphatic or blood cancer, esophageal cancer, and lip/oral cavity/pharynx cancer. Lung cancer is a top result in the dataset as a whole, even before accounting for tobacco use.
 
-![TobaccoTotal](TobaccoChart1.png)
+![TobaccoTotal](tobaccoChart1.png)
 
 The numbers of cases of the different types of tobacco-related cancers are all related to the health effects of smoking (American Cancer Society 2024). 
 
