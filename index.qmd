@@ -1,5 +1,5 @@
 ---
-title: "Tobacco-Related Cancer Deaths in Multmomah County"
+title: "Tobacco-Related Cancer Deaths in Multnomah County"
 format: html
 editor: visual
 ---
