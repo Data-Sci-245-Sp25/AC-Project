@@ -3,15 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "My Analytics Project"
+  title: "Tobacco-Related Cancer Deaths"
   search: false
   sidebar:
     style: "docked"
     contents:
-      - href: index.qmd #person A
+      - href: index.qmd
         text: Home
-      - href: abstract.qmd #person B
+      - href: abstract.qmd
         text: Abstract
+      - href: background.qmd
+        text: Background
+      - href: goals.qmd
+        text: Project Goals
+      - href: methods.qmd
+        text: Methods
+      - href: results.qmd
+        text: Results
+      - href: conclusion.qmd
+        text: Conclusion & Recommendations
 
 format:
   html:

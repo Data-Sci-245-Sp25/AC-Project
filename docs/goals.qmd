@@ -1,0 +1,19 @@
+---
+title: "Project Goals"
+format: html
+editor: visual
+---
+
+Our project aims to identify the top types of cancer deaths that are tobacco associated in recent years in Multnomah County, Oregon, USA. We used demographic data to identify at-risk communities with the highest rates of tobacco associated cancer deaths and identify trends in the data over the past 10 years. We compared these findings to smoking statistics and tobacco-related cancer death rates in the broader USA to find how Multnomah County differs from national averages. 
+
+We use these findings to make recommendations for targeting public health information campaigns. We hope that this study can help the public health department be specific to the people they serve. 
+
+\_\_\_\_\_
+
+Research Questions:
+
+-   What are the top types of tobacco-associated cancer deaths over the past 10 years?
+
+-   What demographic groups are most at risk for tobacco-related cancer deaths in Multnomah County?
+
+-   How do these Multnomah County statistics compare to national trends?
