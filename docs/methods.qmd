@@ -1,0 +1,13 @@
+---
+title: "Methods"
+format: html
+editor: visual
+---
+
+We used data provided by the Multnomah County Public Health office on deaths in the county for the years 2006-2023. Representatives from the county provided a research area for each group of students in the class. Our group studied tobacco-related cancer deaths.
+
+We narrowed the dataset to specifically cancer deaths for the years 2014-2023 according to our main research question. Using ICD-10 codes, we grouped the data into recognizable types of cancers for study. The cancer-only dataset includes about 18,000 observations. Then, we narrowed down our dataset further using the data Multnomah County tracks about tobacco influence. We decided to include all observations where tobacco was a “yes” or “probably” related to the death, as any observation with a “probably” marker likely used tobacco. Thus, our dataset can be interpreted as “cancer deaths among probable tobacco users.” This targeted dataset has approximately 3,400 observations. Thus, this study focused on about 20% of the total cancer deaths in Multnomah County over the past 10 years.
+
+We then accessed five-year American Community Surveys (ACS5) data through the tidycensus package to transform raw data into rates of deaths per 100,000 for ease of analysis. We chose to look at three demographic factors and their association with tobacco-related cancer deaths. The first was veteran status, reported as “yes”, “no”, and “unknown”. There were very few “unknown” observations. We used only the “yes” and “no” observations in context of tidycensus. Second, we considered sex, reported only as “female” and “male”. Finally, we considered race as a demographic factor. We referenced the CDC Appendix E Race Code list and transformed our data to match those categories, which are used in the tidycensus package. Individuals in the Multnomah County dataset are identified with up to 10 races. If an individual was reported to be two or more races, we assigned them “multiracial” for this category. Otherwise, we used the first and only reported race.
+
+We compared the numbers of deaths in each category to the tidycensus ACS5 estimated population demographics for a given year. We divided the result by the estimated population and multiplied by 100,000 to get the death rate per 100,000 individuals. We use these statistics to analyze our data, compare county trends to national trends, and make recommendations for targeting health information towards specific populations moving forward.

@@ -1,11 +1,13 @@
 ---
-title: "Hello, Quarto"
+title: "Tobacco-Related Cancer Deaths in Multmomah County"
 format: html
 editor: visual
 ---
 
-Tobacco-Related Cancer Deaths in Multnomah County, 2013 - 2024
-
 Claire Baco & Anneliese Haberkamp
 
-Spring 2025
+April 2025
+
+This project is completed as a part of Lewis & Clark College's Data Science 245: Data Science Practicum class, in collaboration with the Multnomah County public health department.
+
+Special thanks to: the Multnomah County public health department representatives, Jeremy McWilliams, Professor Greta Binford, the Data Science department, and our classmates in DCSI 245.
