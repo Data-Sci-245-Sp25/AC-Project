@@ -2,10 +2,9 @@ project:
   type: website
   output-dir: docs
 
-
 website:
-  site-url: https://data-sci-245-sp25.github.io/AC-Project/
   title: "Tobacco-Related Cancer Deaths"
+  site-url: https://data-sci-245-sp25.github.io/AC-Project/
   search: false
   sidebar:
     style: "docked"
@@ -24,7 +23,7 @@ website:
         text: Results
       - href: conclusion.qmd
         text: Conclusion & Recommendations
-
+ 
 format:
   html:
     theme: cosmo

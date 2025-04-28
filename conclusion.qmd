@@ -1,7 +1,15 @@
 ---
-title: "Conclusion"
+title: "Conclusion & Recommendations"
 format: html
 editor: visual
 ---
 
-conclusion
+The top tobacco-related fatal cancer type in Multnomah County is by far lung cancer, followed by other smoking-related cancers. These cancers are preventable with changes in lifestyle choices and targeting education efforts towards at-risk populations could lead to decreases in rates of these types of cancer deaths.
+
+Veterans are at a much higher risk than non-veterans. This could mean that targeted anti-smoking information campaigns could be especially effective in places like the VA hospital as it is a place which veterans specifically congregate to and is already providing health services. 
+
+While there is a noticeable difference between men and women for tobacco-related cancer deaths, the difference is small in comparison to other demographic groups. Focusing efforts on more at risk populations is likely more effective than targeting men over women. This gender gap could also be somewhat targeted by targeting veterans as more than 80% of veterans are men (DOD 2025). 
+
+Another community that the public health department should consider targeting information campaigns to are Pacific Islander communities as their tobacco-related cancer death rates are steadily rising in Multnomah County. Further research should be done in an effort to narrow down vulnerable neighborhoods so health information can be provided at community events.
+
+This study is limited by a lack of information on some of the smaller groups studied, such as the racial groups which are not as present in Multnomah County as white people are. Further research should focus on understanding cultural and social reasons why certain groups are found to be at higher risk and how to best address sociopolitical inequities driving these statistics. 
