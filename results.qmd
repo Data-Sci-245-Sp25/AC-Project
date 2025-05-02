@@ -12,7 +12,7 @@ The numbers of cases of the different types of tobacco-related cancers are all r
 
 We then looked for possible demographic factors that could make certain groups more likely to have a tobacco related cancer death. We first considered veteran status to determine if veterans in Multnomah County are more likely to have a tobacco-related cancer death than non-veterans.
 
-![Veteran](tobaccoVets1.png)
+![Veteran](tobaccoVetsCOR.png)
 
 These results show that veterans in Multnomah County have a significantly higher rate of tobacco associated cancer deaths per year than non-veterans. This result isn’t surprising since veterans have a significantly higher rate of smoking compared to non-veterans nationwide (Brown 2010) (CDC 2018). While rates for veteran populations vary widely over this time period, there is no clear trend. The death rate for non-veterans is consistently at least 50 people lower than veteran rates.
 
@@ -24,7 +24,7 @@ These results are consistent with national trends as men generally have a slight
 
 The final demographic grouping for this study is by race. We grouped the data by the 7 races specified by the CDC codes plus a hand-constructed multiracial category.
 
-![Race](tobaccoRace.png)
+![Race](tobaccoRaceCOR.png)
 
 These results are not consistent with national smoking rates by race. While it is hard to find other research that uses the same race categories, there are still many comparisons that can be made. First, some studies find that Black people have overall lower smoking rates than white people even when controlling for education level (Nguyen-Grozavu et al. 2020). This is not consistent with our findings. This may be indicative of systemic issues such as barriers of access to care or education.
 
